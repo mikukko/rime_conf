@@ -19,7 +19,7 @@ schema:
 
 switches:
   - name: ascii_mode
-    states: [ 中, A ]
+    states: [ 中, EN ]
     reset: 0
   - name: ascii_punct
     states: [ "。，", ". ," ]
