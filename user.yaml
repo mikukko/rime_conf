@@ -1,9 +1,9 @@
 var:
-  last_build_time: 1749814640
+  last_build_time: 1751051511
   option:
     ascii_punct: false
   previously_selected_schema: wubi86_jidian
   schema_access_time:
-    double_pinyin_flypy: 1749735521
+    double_pinyin_flypy: 1750864187
     rime_mint: 1747680968
-    wubi86_jidian: 1749814627
+    wubi86_jidian: 1750872355
