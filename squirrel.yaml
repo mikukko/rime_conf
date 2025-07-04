@@ -60,7 +60,7 @@ preset_color_schemes:
     border_width: 0                         # 边框宽度 - 左右， 两者同时存在时才显示边框
     border_color: 0xFFFFFF                  # 边框色
     back_color: 0xFFFFFF                    # 候选条背景色
-    corner_radius: 6                        # 窗口圆角
+    corner_radius: 5                        # 窗口圆角
 
     font_point: 18                          # 候选字大小
 
@@ -104,7 +104,7 @@ preset_color_schemes:
     border_width: 0                         # 边框宽度 - 左右， 两者同时存在时才显示边框
     border_color: 0x050505                  # 边框色
     back_color: 0x252a2e                    # 候选条背景色
-    corner_radius: 6                        # 窗口圆角
+    corner_radius: 5                        # 窗口圆角
 
     font_point: 18                          # 候选字大小
     text_color: 0x424242                    # 拼音行文字颜色
@@ -150,7 +150,7 @@ preset_color_schemes:
     border_width: 0                           # 边框宽度 - 左右， 两者同时存在时才显示边框
     border_color: 0xffffff                    # 边框颜色
     back_color: 0xF4F4F6                      # 背景颜色 - 面板
-    corner_radius: 6                          # 候选框圆角大小
+    corner_radius: 5                          # 候选框圆角大小
 
     font_point: 17                            # 字体大小 - 候选
     # font_face: PingFang SC Semibold           # 字体 - 候选文字
