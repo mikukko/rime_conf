@@ -1,0 +1,19 @@
+{
+  "Rime Dictionary Entry": {
+    "scope": "yaml",
+    "prefix": "dict",
+    "body": [
+      "${1:词条}\t${2:编码}\t${3:10}"
+    ],
+    "description": "添加Rime词典条目（使用Tab分隔）"
+  },
+  
+  "Rime Dictionary Entry with Comment": {
+    "scope": "yaml", 
+    "prefix": "dictc",
+    "body": [
+      "${1:词条}\t${2:编码}\t${3:10}\t# ${4:注释}"
+    ],
+    "description": "添加带注释的Rime词典条目"
+  }
+}

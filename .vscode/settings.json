@@ -1,0 +1,30 @@
+{
+  // 针对YAML文件的配置
+  "[yaml]": {
+    "editor.insertSpaces": false,  // 使用真正的Tab字符而不是空格
+    "editor.detectIndentation": false,  // 不自动检测缩进
+    "editor.tabSize": 8,  // Tab显示宽度设为8，让Tab和空格区别更明显
+    "editor.renderWhitespace": "all"  // 显示所有空白字符，包括Tab和空格
+  },
+
+  // 针对词典文件的特殊配置
+  "files.associations": {
+    "*.dict.yaml": "yaml",
+    "*.schema.yaml": "yaml"
+  },
+
+  // 全局设置：显示空白字符，方便区分Tab和空格
+  "editor.renderWhitespace": "all",
+
+  // 在状态栏显示当前文件的缩进信息
+  "editor.showTabs": true,
+
+  // 高亮显示Tab字符
+  "editor.rulers": [],
+
+  // 当文件包含混合的Tab和空格时发出警告
+  "editor.renderControlCharacters": true,
+
+  // 自动转换粘贴的空格为Tab（针对YAML文件）
+  "editor.trimAutoWhitespace": false
+}

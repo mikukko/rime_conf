@@ -1,0 +1,15 @@
+# 覆盖全局gitignore，允许.vscode文件夹被跟踪
+!.vscode/
+
+# 但是忽略一些可能包含敏感信息的vscode文件
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/c_cpp_properties.json
+.vscode/.ropeproject
+
+# 忽略用户数据库文件（这些是Rime的用户数据，不应该同步）
+*.userdb/
+*.userdb
+
+# 忽略系统文件
+.DS_Store
