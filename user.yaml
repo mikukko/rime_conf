@@ -1,7 +1,8 @@
 var:
-  last_build_time: 1751686241
+  last_build_time: 1752169526
   option:
     ascii_punct: false
+    emoji_suggestion: false
   previously_selected_schema: wubi86_jidian
   schema_access_time:
     double_pinyin_flypy: 1750864187

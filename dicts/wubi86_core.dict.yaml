@@ -1176,7 +1176,6 @@ encoder:
 划不来	aggo	10
 廿	agh	10
 廿	aghg	20
-	aghg	10
 艹	aghh	20
 卄	aghh	10
 蔫	agho	10
@@ -2793,7 +2792,6 @@ Apple	appl	20
 蓿	apwj	10
 劳保	apwk	20
 蓉	apwk	10
-	apwl	10
 劳作	apwt	10
 茓	apwu	10
 蒙人	apww	10
@@ -5463,7 +5461,6 @@ Apple	appl	20
 孔	bnn	40
 巜	bnn	30
 耴	bnn	20
-	bnn	10
 也敢	bnnb	10
 也怪	bnnc	10
 也已	bnnn	10
@@ -7595,7 +7592,6 @@ B站	buh	10
 駃	cnwy	10
 巴结	cnxf	10
 厶	cny	20
-	cny	10
 巴库	cnyl	10
 难以为继	cnyx	10
 駅	cnyy	10
@@ -7796,7 +7792,6 @@ B站	buh	10
 ￡	cohb	40
 ￥	cohb	30
 ¤	cohb	20
-	cohb	10
 →	coj	80
 ↑	coj	70
 ←	coj	60
@@ -10288,7 +10283,6 @@ u	copu	10
 砞	dgsy	10
 厂	dgt	30
 丆	dgt	20
-	dgt	10
 厂长	dgta	10
 三季	dgtb	10
 石径	dgtc	10
@@ -10724,12 +10718,10 @@ u	copu	10
 耦	dijy	10
 非池中物	dikt	10
 耬	dikv	10
-	dilc	10
 耞	dilk	10
 耕田	dill	10
 耬	dilv	10
 砂轮	dilw	10
-	dilx	10
 砂岩	dimd	10
 厰	dimt	10
 耜	din	10
@@ -12636,7 +12628,6 @@ u	copu	10
 奉上	dwhh	10
 百分点	dwhk	10
 仄	dwi	20
-	dwi	10
 春灌	dwia	10
 秦汉	dwic	10
 春潮	dwif	10
@@ -12817,7 +12808,6 @@ u	copu	10
 大张声势	dxfr	10
 砒霜	dxfs	10
 故纸堆	dxfw	10
-	dxgd	10
 龙王	dxgg	10
 三纲五常	dxgi	10
 袭来	dxgo	10
@@ -13547,7 +13537,6 @@ u	copu	10
 肟	efn	10
 肟	efnn	10
 脚心	efny	20
-	efny	10
 肝炎	efoo	20
 肝火	efoo	10
 脚灯	efos	10
@@ -14665,7 +14654,6 @@ u	copu	10
 腾	eudc	20
 騰	eudc	10
 塍	eudf	10
-	eudg	10
 幐	eudh	30
 羘	eudh	20
 膡	eudh	10
@@ -15078,7 +15066,6 @@ u	copu	10
 堪	fadn	10
 无功而返	fadr	10
 霰	fae	20
-	fae	10
 截肢	faef	10
 无功受禄	faep	10
 霰	faet	10
@@ -20518,7 +20505,6 @@ u	copu	10
 青色	geqc	20
 靘	geqc	10
 表针	geqf	10
-	geqg	10
 静	geqh	10
 表象	geqj	10
 表链	geql	10
@@ -20868,7 +20854,6 @@ u	copu	10
 王	gggg	40
 五一	gggg	30
 琵琶	gggg	20
-	gggg	10
 一下	gggh	10
 不死不活	gggi	10
 一天到晚	gggj	10
@@ -21699,6 +21684,7 @@ u	copu	10
 不想	gish	10
 不可	gisk	10
 不禁	giss	10
+不要	gisv	20
 还要	gisv	20
 嫑	gisv	10
 不知	gitd	30
@@ -22473,7 +22459,6 @@ u	copu	10
 珟	gmgq	10
 两颊	gmgu	10
 靑	gmhg	20
-	gmhg	10
 刺目	gmhh	10
 两步	gmhi	10
 两点	gmhk	30
@@ -23172,7 +23157,6 @@ GoPro	gpr	10
 残暴	gqja	10
 裂	gqje	10
 珣	gqjg	20
-	gqjg	10
 列	gqjh	10
 虺	gqji	10
 烈日	gqjj	10
@@ -23197,7 +23181,6 @@ GoPro	gpr	10
 殒	gqkm	40
 殞	gqkm	30
 殨	gqkm	20
-	gqkm	10
 死因	gqld	20
 死罪	gqld	10
 殬	gqlf	10
@@ -24610,8 +24593,6 @@ GoPro	gpr	10
 虚饰	haqn	10
 虐杀	haqs	10
 虎狼	haqt	30
-	haqt	20
-	haqt	10
 眍	haqy	10
 虚报	harb	10
 虚掩	hard	10
@@ -24801,7 +24782,6 @@ GoPro	gpr	10
 盽	hdhh	10
 睡大觉	hdip	10
 頉	hdmy	10
-	hdqg	10
 凸面镜	hdqu	10
 HDR	hdr	10
 狊	hdu	10
@@ -25716,7 +25696,6 @@ HDR	hdr	10
 瞵	hoq	10
 瞵	hoqh	10
 彪炳千古	hotd	10
-	hovg	10
 眯缝	hoxt	10
 眯	hoy	10
 瞎	hp	10
@@ -26893,7 +26872,6 @@ HDR	hdr	10
 少而精	idog	10
 洃	idoy	10
 演奏家	idpe	10
-	idpy	10
 湖色	idqc	10
 尖角	idqe	10
 沽名	idqk	10
@@ -27916,7 +27894,6 @@ HDR	hdr	10
 涉诉	ihyr	10
 小床	ihys	10
 小旗	ihyt	20
-	ihyt	10
 小说	ihyu	10
 小康	ihyv	10
 小卒	ihyw	10
@@ -29135,7 +29112,6 @@ iPad	ipad	20
 黉	ipaw	10
 泻药	ipax	10
 学	ipb	20
-	ipb	10
 学子	ipbb	10
 学	ipbf	10
 沈阳	ipbj	10
@@ -35235,7 +35211,6 @@ iPod	ipod	10
 嘴脸	khew	10
 趿	khey	10
 趺	khf	20
-	khf	10
 跨域	khfa	20
 路霸	khfa	10
 踋	khfb	20
@@ -36067,7 +36042,6 @@ iPod	ipod	10
 串岗	kkmm	10
 口风	kkmq	10
 口内	kkmw	20
-	kkmw	10
 咄咄怪事	kkng	10
 嘂	kknk	10
 口快	kknn	10
@@ -37126,8 +37100,6 @@ km/h	kmh	20
 啥意思	kuln	10
 嘀	kum	10
 嘀	kumd	10
-	kunt	20
-	kunt	10
 咬断	kuon	10
 啼	kup	10
 咬字	kupb	10
@@ -40707,8 +40679,6 @@ MacbookPro	mbp	10
 赙	mgef	20
 賻	mgef	10
 崝	mgeg	30
-	mgeg	20
-	mgeg	10
 由表及里	mgej	10
 同胞	mgeq	10
 峬	mgey	10
@@ -43559,7 +43529,6 @@ MacbookPro	mbp	10
 怶	nhcy	20
 翍	nhcy	10
 眉	nhd	20
-	nhd	10
 戕	nhda	20
 弉	nhda	10
 奘	nhdd	50
@@ -43743,7 +43712,6 @@ MacbookPro	mbp	10
 收税	nhtu	10
 收入	nhty	30
 收	nhty	20
-	nhty	10
 眉头	nhud	20
 收养	nhud	10
 疏剪	nhue	10
@@ -44028,7 +43996,6 @@ MacbookPro	mbp	10
 臂	nkue	20
 襞	nkue	10
 壁	nkuf	10
-	nkug	10
 辟	nkuh	30
 幦	nkuh	20
 躄	nkuh	10
@@ -44295,8 +44262,6 @@ MacbookPro	mbp	10
 乙	nnll	50
 乚	nnll	40
 乛	nnll	30
-	nnll	20
-	nnll	10
 发愤图强	nnlx	10
 尸骨	nnme	10
 心惊肉跳	nnmk	10
@@ -44528,7 +44493,6 @@ MacbookPro	mbp	10
 忷	nqbh	10
 惾	nqbt	30
 翪	nqbt	20
-	nqbt	10
 懈怠	nqck	10
 恑	nqdb	10
 恡	nqdc	10
@@ -44577,7 +44541,6 @@ MacbookPro	mbp	10
 慢镜头	nqud	10
 遐迩闻名	nquq	10
 惂	nqvg	20
-	nqvg	10
 心急如火	nqvo	10
 心急如焚	nqvs	10
 展销会	nqwf	10
@@ -46728,7 +46691,6 @@ MacbookPro	mbp	10
 焱	ooou	10
 歘	ooow	10
 火炉	oooy	10
-	oopb	10
 膋	oope	20
 褮	oope	10
 塋	oopf	20
@@ -49008,7 +48970,6 @@ MacbookPro	mbp	10
 宽银幕	pqaj	10
 冤孽	pqaw	10
 宛	pqb	20
-	pqb	10
 宛	pqbb	10
 鹓	pqbg	10
 邥	pqbh	10
@@ -49475,8 +49436,6 @@ MacbookPro	mbp	10
 补品	pukk	20
 农产品	pukk	10
 审判员	pukm	30
-	pukm	20
-	pukm	10
 初吻	pukq	10
 襙	puks	10
 褸	pukv	10
@@ -50633,7 +50592,6 @@ MacbookPro	mbp	10
 鉗	qafg	10
 氒	qafj	30
 鐯	qafj	20
-	qafj	10
 鑉	qafl	10
 负薪救火	qafo	10
 错过	qafp	10
@@ -50655,7 +50613,6 @@ MacbookPro	mbp	10
 桀	qahs	10
 昏睡	qaht	30
 釾	qaht	20
-	qaht	10
 昏眩	qahy	10
 镜花水月	qaie	10
 鑮	qaif	10
@@ -51532,7 +51489,6 @@ MacbookPro	mbp	10
 鱼唇	qgdf	10
 鲜艳	qgdh	10
 鲕	qgdj	20
-	qgdj	10
 铺面	qgdm	10
 鱿	qgdn	20
 鳡	qgdn	10
@@ -51725,7 +51681,6 @@ MacbookPro	mbp	10
 多事之秋	qgpt	10
 铺衬	qgpu	10
 鲍	qgq	10
-	qgqb	10
 印色	qgqc	10
 兔死狐悲	qgqd	10
 钝角	qgqe	10
@@ -51804,7 +51759,6 @@ MacbookPro	mbp	10
 鳉	qguf	10
 鲜美	qgug	30
 铺盖	qgug	20
-	qgug	10
 匉	qguh	10
 印章	qguj	10
 鳝	qguk	10
@@ -51947,7 +51901,6 @@ MacbookPro	mbp	10
 乐此不疲	qhgu	10
 外皮	qhhc	30
 钁	qhhc	20
-	qhhc	10
 外频	qhhi	10
 鉲	qhhy	20
 鑺	qhhy	10
@@ -53009,7 +52962,6 @@ MacbookPro	mbp	10
 铋	qntt	20
 鉍	qntt	10
 包乘	qntu	10
-	qnty	10
 饼	qnu	10
 饼	qnua	10
 饲养	qnud	30
@@ -54324,7 +54276,6 @@ QQ	qq	10
 獕	qtmy	10
 儿	qtn	30
 勹	qtn	20
-	qtn	10
 猳	qtnc	10
 独居	qtnd	10
 狃	qtnf	10
@@ -54612,7 +54563,6 @@ QQ	qq	10
 錈	qudb	10
 镁砂	qudi	10
 鐥	qudk	20
-	qudk	10
 镜面	qudm	10
 錓	qudn	10
 鎹	qudp	10
@@ -55310,8 +55260,6 @@ QQ	qq	10
 凫	qynm	10
 久已	qynn	40
 釯	qynn	30
-	qynn	20
-	qynn	10
 镳	qyno	20
 鑣	qyno	10
 枭	qyns	10
@@ -55733,8 +55681,8 @@ QQ	qq	10
 近卫军	rbpl	10
 报案	rbpv	10
 报社	rbpy	10
-摄氏	rbqa	20
 报错	rbqa	10
+摄氏	rbqa	10
 报怨	rbqb	10
 报销	rbqi	10
 报名	rbqk	10
@@ -55827,7 +55775,6 @@ QQ	qq	10
 撡	rccn	10
 反驳	rccq	10
 搡	rccs	10
-	rccy	10
 掺	rcd	10
 反顾	rcdb	10
 白马非马	rcdc	10
@@ -56975,7 +56922,6 @@ QQ	qq	10
 年期	rhad	10
 據	rhae	10
 摣	rhag	20
-	rhag	10
 爪牙	rhah	20
 摢	rhah	10
 掉落	rhai	10
@@ -57255,7 +57201,6 @@ QQ	qq	10
 年率	rhyx	10
 朱	ri	10
 托洛斯基	riaa	10
-	rian	10
 挑花	riaw	10
 邾	rib	10
 邾	ribh	10
@@ -57982,7 +57927,6 @@ QQ	qq	10
 抽空	rmpw	10
 抽象	rmqj	10
 缼	rmqw	10
-	rmqy	10
 揣摸	rmra	10
 扬幡招魂	rmrf	10
 捕风捉影	rmrj	10
@@ -59551,7 +59495,6 @@ QQ	qq	10
 斤两	rtgm	10
 搬来	rtgo	10
 年复一年	rtgr	10
-	rtgt	10
 抗生素	rtgx	10
 摇身一变	rtgy	10
 擤	rth	10
@@ -60591,7 +60534,6 @@ QQ	qq	10
 擒	rwyc	40
 拎	rwyc	30
 皊	rwyc	20
-	rwyc	10
 携	rwye	20
 搇	rwye	10
 近体诗	rwyf	10
@@ -62981,7 +62923,6 @@ SD卡	sdhh	20
 枧	smqn	10
 机锋	smqt	10
 枫	smqy	20
-	smqy	10
 机制	smrm	10
 机械	smsa	10
 枫树	smsc	10
@@ -64950,7 +64891,6 @@ SD卡	sdhh	20
 千难万险	tcdb	10
 千难万难	tcdc	10
 私有	tcde	20
-	tcde	10
 私奔	tcdf	20
 知难而进	tcdf	10
 知难而上	tcdh	10
@@ -64993,6 +64933,7 @@ SD卡	sdhh	20
 笃实	tcpu	10
 私邸	tcqa	10
 私怨	tcqb	10
+私钥	tcqe	10
 私拆	tcrr	10
 么么	tctc	20
 笃笃	tctc	10
@@ -69092,7 +69033,6 @@ TF卡	ttfhh	10
 笔者	ttft	10
 身先士卒	ttfy	10
 竹	ttg	20
-	ttg	10
 笔形	ttga	10
 笔致	ttgc	10
 长生不老	ttgf	50
@@ -69111,7 +69051,6 @@ TF卡	ttfhh	10
 生生不息	ttgt	10
 生长素	ttgx	10
 攵	ttgy	20
-	ttgy	10
 笮	tth	10
 笮	tthf	30
 秨	tthf	20
@@ -70798,7 +70737,6 @@ Ubuntu	ubun	10
 关岛	udqy	20
 羝	udqy	10
 拳	udr	20
-	udr	10
 送报	udrb	20
 善报	udrb	10
 叛	udrc	10
@@ -71460,7 +71398,6 @@ Ubuntu	ubun	10
 前列腺	uger	10
 美腿	ugev	10
 痡	ugey	10
-	ugf	10
 冰天雪地	ugff	10
 瘂	ugfg	20
 閸	ugfg	10
@@ -73164,8 +73101,6 @@ Ubuntu	ubun	10
 交媾	uqvf	10
 净	uqvh	40
 竫	uqvh	30
-	uqvh	20
-	uqvh	10
 次女	uqvv	10
 次	uqw	20
 恣	uqw	10
@@ -74177,8 +74112,6 @@ m³	uuyy	10	立方
 痤	uww	10
 阀值	uwwf	40
 痤	uwwf	30
-	uwwf	20
-	uwwf	10
 痊愈	uwwg	10
 疭	uwwi	10
 准保	uwwk	10
@@ -75448,7 +75381,6 @@ m³	uuyy	10	立方
 怒目而视	vhdp	10
 嬉皮士	vhfg	10
 鼠目寸光	vhfi	10
-	vhgd	10
 盡	vhgl	10
 賮	vhgm	10
 婌	vhic	10
@@ -77188,6 +77120,7 @@ m³	uuyy	10	立方
 公社	wcpy	10
 兊	wcqb	10
 公然	wcqd	10
+公钥	wcqe	10
 仅够	wcqk	10
 公馆	wcqn	20
 毤	wcqn	10
@@ -79500,7 +79433,6 @@ Windows	wind	10
 仰承	wqbd	10
 仰	wqbh	10
 爷	wqbj	10
-	wqbt	10
 低限	wqbv	10
 低阶	wqbw	10
 爸	wqc	10
@@ -79642,7 +79574,6 @@ Windows	wind	10
 您好	wqvb	10
 爹妈	wqvc	10
 依然如故	wqvd	10
-	wqvg	10
 父女	wqvv	10
 爹娘	wqvy	10
 低估	wqwd	20
@@ -83109,7 +83040,6 @@ XBox	xbox	10
 绸	xmfk	20
 綢	xmfk	10
 紬	xmg	20
-	xmg	10
 绸带	xmgk	20
 絧	xmgk	10
 繩	xmgv	10
@@ -84598,7 +84528,6 @@ XBox	xbox	10
 弦	xyxy	40
 统统	xyxy	30
 絃	xyxy	20
-	xyxy	10
 纹	xyy	20
 紋	xyy	10
 编译	xyyc	10
@@ -84801,7 +84730,6 @@ XBox	xbox	10
 试问	yauk	10
 说黄道黑	yaul	10
 讌	yauo	20
-	yauo	10
 席次	yauq	10
 说东道西	yaus	10
 试产	yaut	10
