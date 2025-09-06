@@ -21500,6 +21500,7 @@ u	copu	10
 不妥	giev	10
 不及	giey	10
 不堪	gifa	10
+不动	gifc	10
 琺	gifc	10
 不需	gifd	20
 还需	gifd	10
@@ -33698,6 +33699,7 @@ iPod	ipod	10
 曼德拉	jtru	20
 昆德拉	jtru	10
 监护	jtry	10
+鉴权	jtsc	10
 监票	jtsf	10
 星相	jtsh	10
 蟠桃	jtsi	10
@@ -38713,8 +38715,9 @@ km/h	kmh	20
 加深	lkip	10
 加派	lkir	10
 四川省	lkit	10
-圆润	lkiu	20
+回滚	lkiu	10
 回溯	lkiu	10
+圆润	lkiu	10
 架梁	lkiv	10
 回涨	lkix	10
 回流	lkiy	10
@@ -47843,6 +47846,7 @@ MacbookPro	mbp	10
 家属	pent	10
 农忙	peny	10
 农业	peog	10
+家宽	pepa	10
 农家	pepe	20
 宜家	pepe	10
 家室	pepg	10
@@ -66906,6 +66910,7 @@ SD卡	sdhh	20
 自毁	thva	10
 自好	thvb	10
 息怒	thvc	10
+自建	thvf	10
 自寻	thvf	10
 自如	thvk	10
 牌九	thvt	10
@@ -73250,6 +73255,7 @@ Ubuntu	ubun	10
 尊	usg	30
 猷	usg	20
 遒	usg	10
+新开	usga	10
 新型	usga	10
 鄭	usgb	10
 新到	usgc	10
@@ -79863,6 +79869,7 @@ Windows	wind	10
 人生苦短	wtat	10
 余切	wtav	10
 作孽	wtaw	10
+余孽	wtaw	10
 舍我其谁	wtay	20
 伥	wtay	10
 傻子	wtbb	10
@@ -87083,6 +87090,7 @@ XBox	xbox	10
 廖	ynwe	20
 謬	ynwe	10
 房舍	ynwf	10
+盲盒	ynwg	10
 亡命	ynwg	10
 齐心合力	ynwl	10
 顧	ynwm	10
@@ -88144,6 +88152,7 @@ YouTube	ytb	10
 族	yttd	10
 旗舰	ytte	20
 方向盘	ytte	10
+放行	yttf	30
 旅行	yttf	30
 施行	yttf	20
 设身处地	yttf	10
