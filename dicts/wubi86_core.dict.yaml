@@ -6508,6 +6508,7 @@ B站	buh	10
 豫剧	cbnd	10
 柔情	cbng	10
 预收	cbnh	10
+预发	cbnt	10
 柔性	cbnt	10
 预习	cbnu	10
 予以	cbny	10
@@ -16460,6 +16461,7 @@ u	copu	10
 超速	fhgk	10
 直刺	fhgm	10
 起来	fhgo	10
+越来	fhgo	10
 趰	fhgq	10
 寸步不离	fhgy	20
 过目不忘	fhgy	10
@@ -16694,6 +16696,7 @@ u	copu	10
 趑	fhuw	10
 超	fhv	10
 真好	fhvb	10
+越好	fhvb	10
 起始	fhvc	10
 直隶	fhvi	20
 趢	fhvi	10
@@ -21043,6 +21046,7 @@ u	copu	10
 一等	ggtf	10
 一生	ggtg	10
 一片	ggth	20
+一处	ggth	10
 王牌	ggth	10
 一秒	ggti	10
 来不得	ggtj	10
@@ -21434,6 +21438,7 @@ u	copu	10
 正比	ghxx	10
 正统	ghxy	10
 正席	ghya	10
+正序	ghyc	10
 到此为止	ghyh	20
 与虎谋皮	ghyh	10
 下课	ghyj	10
@@ -28676,7 +28681,7 @@ IMAX	imax	10
 游山玩水	imgi	10
 没理	imgj	10
 没事	imgk	30
-没事	imgk	20
+测速	imgk	20
 洞	imgk	10
 油画	imgl	10
 涄	imgn	10
@@ -28802,6 +28807,7 @@ IMAX	imax	10
 滑行	imtf	10
 测算	imth	20
 溄	imth	10
+没得	imtj	10
 渢	imtj	10
 没种	imtk	10
 溅射	imtm	10
@@ -65665,6 +65671,7 @@ SD卡	sdhh	20
 船主	teyg	10
 艩	teyj	10
 航	teym	10
+租户	teyn	30
 租房	teyn	30
 舫	teyn	20
 舮	teyn	10
@@ -66373,8 +66380,8 @@ SD卡	sdhh	20
 甥	tgll	20
 勳	tgll	10
 熏	tglo	10
-条形图	tglt	30
 策略	tglt	20
+条形图	tglt	20
 重力	tglt	10
 惩办	tglw	10
 惩罚	tgly	20
@@ -80684,6 +80691,7 @@ Windows	wind	10
 代人受过	wwef	10
 俎	wweg	20
 佾	wweg	10
+人脸	wwew	10
 人脑	wwey	10
 坐	wwf	10
 坐地	wwfb	10
@@ -82500,8 +82508,8 @@ XBox	xbox	10
 母盘	xgte	10
 纯毛	xgtf	10
 纯利	xgtj	10
-纯种	xgtk	20
-线程	xgtk	10
+线程	xgtk	20
+纯种	xgtk	10
 线条	xgts	10
 母系	xgtx	10
 母	xgu	10
@@ -86421,7 +86429,7 @@ XBox	xbox	10
 设防	ymby	10
 设	ymc	10
 调戏	ymca	10
-高参	ymcd	10
+调参	ymcd	10
 高能	ymce	10
 高台	ymck	10
 高难	ymcw	10
@@ -87386,6 +87394,7 @@ XBox	xbox	10
 放之四海而皆准	yplu	10
 亮	ypm	10
 亮	ypmb	10
+这周	ypmf	10
 豪赌	ypmf	10
 诧异	ypna	10
 豪情	ypng	10

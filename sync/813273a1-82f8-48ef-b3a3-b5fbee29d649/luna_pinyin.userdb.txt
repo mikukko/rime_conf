@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	0
+#@/user_id	813273a1-82f8-48ef-b3a3-b5fbee29d649

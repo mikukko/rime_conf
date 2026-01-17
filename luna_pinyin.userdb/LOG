@@ -1,2 +1,5 @@
-2025/05/19-23:39:49.902568 0x20d871f00 Creating DB /Users/miku/Library/Rime/luna_pinyin.userdb since it was missing.
-2025/05/19-23:39:49.936521 0x20d871f00 Delete type=3 #1
+2026/01/13-23:53:25.297500 0x16b2cf000 Recovering log #3
+2026/01/13-23:53:25.297822 0x16b2cf000 Level-0 table #5: started
+2026/01/13-23:53:25.302712 0x16b2cf000 Level-0 table #5: 253 bytes OK
+2026/01/13-23:53:25.319800 0x16b2cf000 Delete type=0 #3
+2026/01/13-23:53:25.319810 0x16b2cf000 Delete type=3 #2
